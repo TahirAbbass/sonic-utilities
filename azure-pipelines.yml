@@ -10,7 +10,7 @@ resources:
   repositories:
   - repository: sonic-swss
     type: github
-    name: sonic-net/sonic-swss
+    name: TahirAbbass/sonic-swss
     endpoint: sonic-net
 
 variables:
