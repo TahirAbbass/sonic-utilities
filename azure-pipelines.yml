@@ -11,7 +11,7 @@ resources:
   - repository: sonic-swss
     type: github
     name: TahirAbbass/sonic-swss
-    endpoint: sonic-net
+    endpoint: TahirAbbass
 
 variables:
   - name: BUILD_BRANCH
